@@ -1,1 +1,24 @@
-/bin/
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# Compiled Java files
+bin/
+target/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IntelliJ / VS Code settings (if any)
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+
