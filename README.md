@@ -39,7 +39,7 @@ Users can register, issue books, return books, and view available books.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/Sadaqath18/LibraryManagementSystem.git
 cd LibrarySystem
 ```
 
